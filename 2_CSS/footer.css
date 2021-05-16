@@ -1,0 +1,43 @@
+
+.foot ul li.a{
+    padding-left: 2rem;
+    background-image: url(../4_IMAGES/Icons/facebook-brands.svg);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .foot ul li.b{
+    padding-left: 2rem;
+    background-image: url(../4_IMAGES/Icons/envelope-open-text-solid.svg);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .foot ul li.c{
+    padding-left: 2rem;
+    background-image: url(../4_IMAGES/Icons/map-marker-alt-solid.svg);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .foot ul li.d{
+    padding-left: 2rem;
+    background-image: url(../4_IMAGES/Icons/facebook-brands.svg);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .foot ul li.e{
+    padding-left: 2rem;
+    background-image: url(../4_IMAGES/Icons/info-circle-solid.svg);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .foot ul li.f{
+    padding-left: 2rem;
+    background-image: url(../4_IMAGES/Icons/external-link-alt-solid.svg);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+  }
